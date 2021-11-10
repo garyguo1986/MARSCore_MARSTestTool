@@ -1,0 +1,25 @@
+{
+  "id": "46b88aa7-3a7c-4798-abe6-99c777353714",
+  "name": "MARSTestTool",
+  "publisher": "Incadea China",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 1059700,
+      "to": 1059720
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
